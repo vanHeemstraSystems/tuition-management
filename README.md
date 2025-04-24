@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+tuition-management
+# Tuition Management
 
 > Slugline
 
